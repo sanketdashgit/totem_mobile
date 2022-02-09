@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "881512661518",
+    "project_id": "totem-49830",
+    "storage_bucket": "totem-49830.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881512661518:android:a40593b8fc1bde07fbf25f",
+        "android_client_info": {
+          "package_name": "com.totemapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881512661518-d5gq4dnot5k3f7l1u96pm07irq08pv08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.totemapp",
+            "certificate_hash": "ea98a3a9b62055f8d4cfe30fcb86d21f4cd414a0"
+          }
+        },
+        {
+          "client_id": "881512661518-0kv639uirak1vd49gcgkommol2hhe9q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXDiO1HCN5e3z080YMxs6aq9PdtKX2VSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881512661518-0kv639uirak1vd49gcgkommol2hhe9q7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881512661518-5rtd7clr75pkpj76000aro405tu9oea3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.totemapp",
+                "app_store_id": "1575753160"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

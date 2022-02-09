@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17" viewBox="0 0 16 17">
+    <g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g stroke="#B2B2B2">
+            <g>
+                <g>
+                    <g transform="translate(-33.000000, -197.000000) translate(10.000000, 120.000000) translate(15.000000, 19.000000) translate(9.000000, 58.000000)">
+                        <rect width="13.714" height="8.381" y="7.619" rx="2"/>
+                        <path d="M3.048 7.619V4.571C3.046 2.614 4.527.974 6.474.777 8.422.581 10.201 1.892 10.59 3.81"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
